@@ -1,5 +1,4 @@
-## Next.js App Router Course - Starter
+## Acme dashboard application
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This is the dashboard template build with Next.js. It contains React TypeScript, Tailwind CSS, Postgres SQL code, this dashboard application has a home page, after login you can see the Dashboard page, Invoices and Customers pages.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
